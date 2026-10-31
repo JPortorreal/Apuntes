@@ -1,6 +1,11 @@
 Capítulo 1: Introducción a Git
 Capítulo 2: Flujo de trabajo básico
 Capítulo 3: Repositorios remotos
+Hola
+Jose Luis
+...PUYANDO ES QUE SE APRENDE...
+
+Quiero aprender Docker
 
 Hola Jose Luis Portorreal @jporterreal
 PUYANDO ES QUE SE APRENDE
